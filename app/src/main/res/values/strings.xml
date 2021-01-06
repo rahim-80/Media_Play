@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mvp</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="hintSearch">Search Tasks...</string>
+    <string name="today">Today</string>
+    <string name="delete">Delete All</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="add_task_text">Click Button Add New Task For Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="add_task">Add Task</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="normal">Normal</string>
+    <string name="add_new_taskForToday">Add New Task For Today...</string>
+    <string name="save_task">Save Changes</string>
+</resources>
